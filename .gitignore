@@ -1,0 +1,65 @@
+### Java ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### BlueJ files ###
+*.ctxt
+
+### Mobile Tools for Java (J2ME) ###
+.mtj.tmp/
+
+### Package Files ###
+*.zip
+*.tar.gz
+*.rar
+
+### Virtual machine crash logs ###
+hs_err_pid*
+replay_pid*
+
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Eclipse ###
+.classpath
+.project
+.settings/
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Maven ###
+target/
+
+### Gradle ###
+.gradle/
+build/
+
+### Spring Boot ###
+# Avoid application secrets
+application-*.yml
+application-*.yaml
+application-*.properties
+
+### OS generated files ###
+.DS_Store
+Thumbs.db
+
+### Other ###
+*.bak
+*.tmp
